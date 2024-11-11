@@ -1,1 +1,1 @@
-When opening this project in vscode open the folder portfolio, or the links and images won't work
+
